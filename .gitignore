@@ -1,6 +1,6 @@
 node_modules
+_json
+_xlsx
 .DS_Store
 .env
 .env.local
-_json
-_xlsx
