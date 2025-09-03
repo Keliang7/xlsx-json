@@ -1,0 +1,22 @@
+{
+  "congratulations": "Congratulations, you have surpassed this level",
+  "current_level": "Current",
+  "deposit_now": "Deposit Now",
+  "go_to_tasks": "Go to Tasks",
+  "investment_account": "Investment Account",
+  "invite": "Invite Friends",
+  "membershipLevel": "Membership Level",
+  "need_upgrade": "Upgrade Required",
+  "net_in_amount": "Net Deposit Amount",
+  "no_privileges": "No Privileges Available",
+  "not_unlocked": "You have not unlocked this level yet",
+  "not_upgraded": "Not Upgraded",
+  "or": "or",
+  "points": "Points",
+  "privileges_description": "Privileges Description",
+  "thresholdTip": "Threshold requirements",
+  "trade_now": "Trade Now",
+  "trading_volume": "Trading Volume",
+  "upgrade_condition": "Complete to upgrade to VIP",
+  "upgraded": "Upgraded"
+}

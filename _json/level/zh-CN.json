@@ -1,0 +1,22 @@
+{
+  "congratulations": "恭喜您，已超越该等级",
+  "current_level": "当前等级",
+  "deposit_now": "立刻入金",
+  "go_to_tasks": "去做任务",
+  "investment_account": "投资号",
+  "invite": "邀请注册",
+  "membershipLevel": "会员等级",
+  "need_upgrade": "升级还需",
+  "net_in_amount": "净入金额",
+  "no_privileges": "暂无权益",
+  "not_unlocked": "您暂未解锁该等级",
+  "not_upgraded": "未升级",
+  "or": "或",
+  "points": "积分",
+  "privileges_description": "权益说明",
+  "thresholdTip": "门槛要求",
+  "trade_now": "立刻交易",
+  "trading_volume": "交易手数",
+  "upgrade_condition": "完成即可以升级VIP",
+  "upgraded": "已升级"
+}
