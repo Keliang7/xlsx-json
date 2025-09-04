@@ -3,7 +3,9 @@
     "genxlsx": "node genxlsx.js",
     "genxlsx:h5": "node genxlsx.js h5",
     "genjson": "node genjson.js",
-    "genjson:h5": "node genxlsx.js h5"
+    "genjson:h5": "node genxlsx.js h5",
+    "genjsonMulti": "node genjsonMulti.js",
+    "genjsonMulti:h5": "node genjsonMulti.js h5"
   },
   "dependencies": {
     "xlsx": "^0.18.5"
